@@ -1,3 +1,4 @@
+
 Credits: https://gist.github.com/maxogden/a411195a58a6753a40e8a2f34fa58599
 
 ## Pre-requisites
@@ -28,7 +29,7 @@ brew install sqlite
 ## Setup & Run:
 
 ```
-cd /imessage2json
+cd /ichat2json
 npm install
 ```
 
